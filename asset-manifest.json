@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/copa-del-mundo-2026/static/css/main.244cbbc8.css",
+    "main.js": "/copa-del-mundo-2026/static/js/main.041dd8d6.js",
+    "static/js/453.259a6cbe.chunk.js": "/copa-del-mundo-2026/static/js/453.259a6cbe.chunk.js",
+    "index.html": "/copa-del-mundo-2026/index.html",
+    "main.244cbbc8.css.map": "/copa-del-mundo-2026/static/css/main.244cbbc8.css.map",
+    "main.041dd8d6.js.map": "/copa-del-mundo-2026/static/js/main.041dd8d6.js.map",
+    "453.259a6cbe.chunk.js.map": "/copa-del-mundo-2026/static/js/453.259a6cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244cbbc8.css",
+    "static/js/main.041dd8d6.js"
+  ]
+}
